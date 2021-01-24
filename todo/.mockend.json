@@ -1,38 +1,38 @@
 [
-                {
-                    title:'Title 1',
-                    completed:false,
-                    objectives:[
-                        {
-                            title:'Objective 1',
-                            completed:false
-                        },
-                        {
-                            title:'Objective 2',
-                            completed:true
-                        },
-                        {
-                            title:'Objective 3',
-                            completed:false
-                        }
-                    ]
-                },
-                {
-                    title:'Title 2',
-                    completed:false,
-                    objectives:[
-                        {
-                            title:'Objective 1',
-                            completed:false
-                        },
-                        {
-                            title:'Objective 2',
-                            completed:true
-                        },
-                        {
-                            title:'Objective 3',
-                            completed:false
-                        }
-                    ]
-                }
-            ]
+    {
+        "title":"title 1",
+        "completed":false,
+        "objectives":[
+            {
+                "title":"Objective 1",
+                "completed":false
+            },
+            {
+                "title":"Objective 2",
+                "completed":true
+            },
+            {
+                "title":"Objective 3",
+                "completed":false
+            }
+        ]
+    },
+    {
+        "title":"title 2",
+        "completed":false,
+        "objectives":[
+            {
+                "title":"Objective 1",
+                "completed":false
+            },
+            {
+                "title":"Objective 2",
+                "completed":true
+            },
+            {
+                "title":"Objective 3",
+                "completed":false
+            }
+        ]
+    }
+]
