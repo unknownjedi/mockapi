@@ -1,5 +1,5 @@
 {
-    "Task": {
+    "Objective": {
         "title": "string",
         "completed": "boolean"
     }
