@@ -1,11 +1,6 @@
 {
     "Task": {
         "title": "string",
-        "completed": "boolean",
-        "objectives": "Objectives[]"
-    },
-    "Objectives": {
-        "title": "string",
         "completed": "boolean"
     }
 }
