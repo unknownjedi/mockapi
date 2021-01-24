@@ -1,38 +1,11 @@
-[
-    {
-        "title":"title 1",
-        "completed":false,
-        "objectives":[
-            {
-                "title":"Objective 1",
-                "completed":false
-            },
-            {
-                "title":"Objective 2",
-                "completed":true
-            },
-            {
-                "title":"Objective 3",
-                "completed":false
-            }
-        ]
+{
+    "Task": {
+        "title": "string",
+        "completed": "boolean",
+        "objectives": "Objectives[]"
     },
-    {
-        "title":"title 2",
-        "completed":false,
-        "objectives":[
-            {
-                "title":"Objective 1",
-                "completed":false
-            },
-            {
-                "title":"Objective 2",
-                "completed":true
-            },
-            {
-                "title":"Objective 3",
-                "completed":false
-            }
-        ]
+    "Objectives": {
+        "title": "string",
+        "completed": "boolean"
     }
-]
+}
