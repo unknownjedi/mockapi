@@ -75,7 +75,8 @@
       }
     }
   ],
-  "response": {
+  "profile": {
+    "name": "typicode",
     "coordinates":[
     {
       "location": {
@@ -145,9 +146,6 @@
         "z": 1
       }
     }
-  ]
-  },
-  "profile": {
-    "name": "typicode"
+  ],
   }
 }
